@@ -240,3 +240,14 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/kuZEDAssessment/ImgDepthCV.bmp
+/kuZEDAssessment/ImgColorCV.bmp
+/kuZEDAssessment/haarcascade_frontalface_default.xml
+/kuZEDAssessment/haarcascade_frontalface_alt.xml
+/kuZEDAssessment/CBRelativeError.txt
+/kuZEDAssessment/CB3DData.txt
+/ZEDSDK.props
+/VTK711_x64_Debug.props
+/OpenCV310_x64_Debug.props
+/GLFW3.props
+*.txt
